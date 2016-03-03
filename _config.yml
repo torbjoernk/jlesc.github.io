@@ -9,8 +9,8 @@ description: > # this means to ignore newlines until "baseurl:"
   Applications, Argonne National Laboratory, Barcelona Supercomputing Center, Julich
   Supercomputing Center and Riken/AICS.
   The Joint Lab is part of Parallel@Illinois.
-baseurl: ""
-url: "https://jlesc.github.io"
+baseurl: "/jlesc.github.io"
+url: "https://torbjoernk.github.io/jlesc.github.io"
 logo: jlesc_logo.jpg
 
 timezone: UTC
